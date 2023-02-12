@@ -3,12 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Методоології і Технології Розробки ПЗ's documentation!
-=================================================================
+Методоології і Технології Розробки ПЗ
+=====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Лекції
+   :glob:
+
+   lectures/*
 
 
 
